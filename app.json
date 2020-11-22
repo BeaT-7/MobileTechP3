@@ -1,0 +1,12 @@
+{
+  "name": "PracticalAssignment3",
+  "displayName": "PracticalAssignment3",
+  "expo": {
+    "name": "PracticalAssignment3",
+    "slug": "PracticalAssignment3",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
